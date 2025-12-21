@@ -1,3 +1,3 @@
 # Catnify
 
-**Catnify** is a tiny web browser *that doesn't* rely on **CHROMIUM** based on **PYTHON**
+no idea what this will be made in
