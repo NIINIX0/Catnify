@@ -1,0 +1,1 @@
+pymanager exec -3.7.0 %*
