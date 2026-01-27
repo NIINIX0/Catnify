@@ -1,3 +1,3 @@
-# <img src="https://raw.githubusercontent.com/NIINIX0/Catnify/main/.github/Logo.svg" alt="Image" width="40" height="40"> Catnify
+<p align="center"><img src="https://raw.githubusercontent.com/NIINIX0/Catnify/main/.github/Logo.svg" alt="Image" width="100" height="100"></p>
 
-*Catnify is a web browser made using <a href="https://www.chromium.org/Home/">Chromium</a> and <a href="https://github.com/cztomczak/cefpython/">CefPython</a> ( which uses <a href="https://github.com/chromiumembedded/cef">Cef</a> )*
+*Catnify is a web browser made using <a href="https://www.chromium.org/Home/">Chromium</a>*
