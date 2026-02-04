@@ -5,3 +5,7 @@
 im really considering embedding chromium because what the helly
 
 <img width="566" height="111" alt="image" src="https://github.com/user-attachments/assets/c38a85ac-625d-48cb-b343-949042149a22" />
+
+<img width="1302" height="838" alt="image" src="https://github.com/user-attachments/assets/d0c1c050-d392-44fa-9102-04628d227e87" />
+
+🙏
