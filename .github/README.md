@@ -4,4 +4,4 @@
 
 get the code:
 
-    sudo git clone https://github.com/NIINIX0/Catnify.git
+    git clone https://github.com/NIINIX0/Catnify.git
