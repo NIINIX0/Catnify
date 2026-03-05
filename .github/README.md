@@ -5,7 +5,7 @@
 <p>Check Out:</p>
 <a href="https://www.chromium.org/Home">Chromium,</a>
 <a href="https://chromiumembedded.github.io/cef/">CEF chromium,</a>
-<a href="https://github.com/ocornut/imgui">Dear Imgui.</a>
+<a href="https://www.dearimgui.com/">Dear Imgui.</a>
 
 #
 
