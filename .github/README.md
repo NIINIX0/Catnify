@@ -2,13 +2,28 @@
 
 <h1 align="center">Catnify is a web browser made using <a href="https://www.chromium.org/Home">Chromium</a><img src="https://www.chromium.org/_assets/icon-chromium-96.png" alt="Image" width="25" height="25"></h1>
 
-<p>Check Out:</p>
-<a href="https://www.chromium.org/Home">Chromium,</a>
-<a href="https://chromiumembedded.github.io/cef/">CEF chromium,</a>
-<a href="https://www.dearimgui.com/">Dear Imgui.</a>
+<details>
+    <summary>Check out</summary>
+    <a href="https://www.chromium.org/Home">Chromium,</a>
+    <a href="https://chromiumembedded.github.io/cef/">CEF chromium,</a>
+    <a href="https://www.dearimgui.com/">Dear Imgui.</a>
+</details>
 
 #
 
 get the code:
 
     git clone https://github.com/NIINIX0/Catnify.git
+
+compile:
+
+    python compile.py
+    - - or if you have py3 - -
+    python3 compile.py
+
+> [!IMPORTANT]  
+> You have to be in the same folder as compile.py!
+> 
+> and you really dont have to use the compile.py file, you can do it yourself.
+
+#
